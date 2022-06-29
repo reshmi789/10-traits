@@ -1,0 +1,1 @@
+/home/allena/Desktop/Practice_project/10-traits/generics/Generics-for-Removing-Duplication-by-Extracting-a-Function/generics_in_struct/target/debug/generics_in_struct: /home/allena/Desktop/Practice_project/10-traits/generics/Generics-for-Removing-Duplication-by-Extracting-a-Function/generics_in_struct/src/main.rs
